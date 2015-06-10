@@ -38,3 +38,6 @@
 
 # IDE specific stuff
 /.idea
+/.buildpath
+/.project
+/.settings
