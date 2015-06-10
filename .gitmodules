@@ -1,0 +1,4 @@
+[submodule "src/StingerSoft/PlatformBundle"]
+	path = src/StingerSoft/PlatformBundle
+	url = https://github.com/Stinger-Soft/PlatformBundle.git
+	branch = master
